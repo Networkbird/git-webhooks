@@ -1,0 +1,6 @@
+python-decouple
+requests
+telethon
+pygithub
+aiohttp
+bs4
